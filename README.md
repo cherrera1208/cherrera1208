@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying the advanced javascript course at Code Fellows
+- 🌱 I’m currently learning Mongodb, Express, React, Node.js, SQL, and Redux
+- 📫 How to reach me: cherrera.dev@gmail.com
+
 <!--
 **cherrera1208/cherrera1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
