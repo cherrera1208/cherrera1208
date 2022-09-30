@@ -1,4 +1,4 @@
-![My project-1](https://user-images.githubusercontent.com/107902478/193351718-25497955-89b8-40d9-909f-e2345a0c8b90.png)
+![LinkedIn cover - 1](https://user-images.githubusercontent.com/107902478/193360794-94aed729-2937-4e55-a17f-afcf6747b043.png)
 
 ### Hi there 👋
 
