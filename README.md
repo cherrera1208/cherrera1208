@@ -1,3 +1,5 @@
+![My project-1](https://user-images.githubusercontent.com/107902478/193351718-25497955-89b8-40d9-909f-e2345a0c8b90.png)
+
 ### Hi there 👋
 
 - 🔭 I’m currently studying the advanced javascript course at Code Fellows
