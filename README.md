@@ -6,7 +6,7 @@ Full-stack web developer
 ------------------------
 I love technology. I'm excited to learn everything about the next new gadget, futuristic gizmo, useful app, or revolutionary program. I'm even more excited about building them.
 
-* 🖥️  See my portfolio at [cherreradev.netlify.app](http://cherreradev.netlify.app )
+* 🖥️  See my portfolio at [cherreradev.netlify.app](cherrera-dev.netlify.app)
 * ✉️  You can contact me at [cherrera.dev@gmail.com](mailto:cherrera.dev@gmail.com)
 
 ### 
