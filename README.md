@@ -4,7 +4,7 @@ Hi, My name is Carlos
 ===============================
 Full-stack web developer
 ------------------------
-I love technology. I'm excited to learn everything about the next new gadget, futuristic gizmo, useful app, or revolutionary program. I'm even more excited about building them.
+I have a background in naval aviation and spent a number of years working as an avionics technician before making the transition into software development. I have experience working in a team environment and enjoy working on projects where I can utilize my creativity and problem solving skills. I am a quick learner and am always looking for opportunities to learn new technologies.
 
 * 🖥️  See my portfolio at [cherrera-dev.netlify.app](https://cherrera-dev.netlify.app/)
 * ✉️  You can contact me at [cherrera.dev@gmail.com](mailto:cherrera.dev@gmail.com)
