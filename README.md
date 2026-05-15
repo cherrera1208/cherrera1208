@@ -1,5 +1,5 @@
 
-![Github Banner](https://user-images.githubusercontent.com/107902478/193394701-30ff3571-d045-4bdc-9a6d-0cb065143878.png)
+![Github Banner]()
 Hi, My name is Carlos
 ===============================
 Full-stack web developer
